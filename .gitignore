@@ -1,0 +1,35 @@
+# .NET Core
+bin/
+obj/
+*.dll
+*.pdb
+*.exe
+*.user
+*.vscode
+*.vs
+*.db
+
+# Visual Studio Code
+.vscode/
+
+# Node.js
+node_modules/
+
+# React build
+Client/build/
+
+# IDEs and editors
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Package files
+*.nupkg
+*.pem
+*.pfx
+
+# User-specific files
+*.log
+*.cache
